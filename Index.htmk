@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html lang="hi">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Munendr Yadav Digital Marketing Institute</title>
+    <link rel="stylesheet" href="style.css">
+    <script src="script.js" defer></script>
+</head>
+<body>
+
+<header>
+    <h1>Munendr Yadav Digital Marketing Institute</h1>
+    <p>3 दिन की Free Digital Marketing Class 🎓 अधिक जानकारी के लिए फॉर्म भरें — हम रोज़ 2 घंटे लाइव आते हैं।</p>
+</header>
+
+<section class="courses">
+    <h2>आप क्या सीखेंगे?</h2>
+    <ul>
+        <li>✅ Facebook Ads चलाना</li>
+        <li>✅ Instagram Growth बढ़ाना</li>
+        <li>✅ Affiliate Marketing से कमाई करना</li>
+    </ul>
+</section>
+
+<!-- ⭐⭐⭐ नया जोड़ा गया Affiliate Marketing सेक्शन ⭐⭐⭐ -->
+<section class="affiliate-section">
+    <h2>Affiliate Marketing से क्या सीखेंगे?</h2>
+
+    <div class="box">
+        <h3>1. Affiliate Marketing क्या है?</h3>
+        <p>यह सीखेंगे कि Affiliate Marketing कैसे काम करती है, लोग इससे पैसे कैसे कमाते हैं और passive income कैसे बनती है।</p>
+    </div>
+
+    <div class="box">
+        <h3>2. सही Product कैसे चुनें?</h3>
+        <p>आप जानेंगे कि कौन-सा product ज़्यादा बिकता है, high-commission niche कैसे ढूँढे और competition कैसे चेक करें।</p>
+    </div>
+
+    <div class="box">
+        <h3>3. Affiliate Link से कमाई कैसे करें?</h3>
+        <p>यह सीखेंगे कि लिंक कहाँ शेयर करना है, traffic कैसे लाना है और earning को लगातार कैसे बढ़ाना है।</p>
+    </div>
+</section>
+
+<section class="offer">
+    <h2>🎁 Free Offer!</h2>
+    <p>सीखें Digital Marketing के रहस्य — बिल्कुल Free (3 दिन की Demo Class)</p>
+    <p><b>सीट सीमित हैं, तुरंत रजिस्टर करें!</b></p>
+</section>
+
+<section class="contact">
+    <h2>फॉर्म भरे</h2>
+
+    <a href="https://forms.zohopublic.in/munendr049gm1/form/munendryadavdigitalmarketinginstitute1/formperma/aI3mdbrr9AdetmLNwElaDLEk2EZQqQraAgzQLLF-IHI"
+       target="_blank" style="font-size:18px; color:blue;">
+       👉 यहाँ क्लिक करके फॉर्म खोलें
+    </a>
+
+    <form class="contact-form" onsubmit="sendMessage(event)">
+        <input type="text" id="name" placeholder="आपका नाम" required>
+        <input type="email" id="email" placeholder="आपका ईमेल" required>
+        <textarea id="message" rows="4" placeholder="अपना संदेश लिखें..." required></textarea>
+        <button type="submit">भेजें</button>
+    </form>
+    <p id="response-message"></p>
+</section>
+
+<footer>
+    <h3>हमसे जुड़ें:</h3>
+
+    <a href="https://wa.me/917505743286" target="_blank">📞 WhatsApp</a> |
+    <a href="https://www.facebook.com/share/1MRiHZNMjD/" target="_blank">📘 Facebook</a> |
+    <a href="https://www.instagram.com/digitalmunendr" target="_blank">📸 Instagram</a> |
+    <a href="https://youtube.com/@munendr1963" target="_blank">▶️ YouTube</a>
+
+    <p>© 2025 Munendr Yadav Digital Marketing Institute</p>
+</footer>
+
+</body>
+</html>
